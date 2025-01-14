@@ -2,4 +2,84 @@
 layout: post
 title: Pass CCNA
 date: 2025-01-14 11:25 -0800
+categories: [Certification, Cisco]
+tags: [certification, ccna, cisco]
 ---
+Hello Brewers!
+
+This blog post will cover how I plan to pass Cisco CCNA 200–301 certification exam.
+
+Whenever I’ve decided to pursue a certification exam, part of my process includes extensive research and study planning. I create a study plan, schedule my exam, then get my head down in my studies.
+
+I’m a visual and hands-on learner, so I look for 2 study resources, usually a video course and a book to reference for a more in-depth point of view. I also gather other supplementary resources to fill in gaps to get a deeper understanding of specific technologies.
+
+The main goal when pursuing certification exams; is to pass on the first try, obtain knowledge and get a return on investment — failure is good, but these exams are fucking expensive.
+
+Below I’ve shared my extensive 4–5 months study plan and study resources. All the best on your journey!
+Video Courses — 1.5 Months (For Overview)
+
+    CBT Nuggets — 1 month (Link)
+    David Bombal Course & Labs — 2 weeks (Link)
+    Other:
+    Neil Anderson
+    Chris Bryant
+    Jeremy’s IT Lab (FREE)
+
+Books — 1 month (For Deep Understanding)
+
+    Official Cert. Guide Library by Wendell Odom (Link)
+    White Papers (Link)
+    Portable Command Guide (Link)
+
+Practice, Revision & Labs — 1 Month
+Subnetting & Practice
+
+Subnetting Review
+
+    Networking Fundamentals & Subnetting (Link)
+    Subnet Saturdays — Keith Barker (Link)
+    Subnetting Master — Practical Networking (Link)
+    Sunny Classroom — Subnetting is Simple (Link)
+
+Subnetting Practice
+
+    SubnetIPV4.com (Link)
+    SubnettingPractice.com (Link)
+    EasySubnetting.net (Link)
+    Subnetting.net (Link)
+    SubnettingQuestions.com (Link)
+
+Other
+
+    PacketLife Cheat Sheets (Link)
+    David Bombal’s Wireshark Course (Link)
+    Anki — A must have (What is Anki?)
+
+Labs
+
+    Packet Tracer (Link), GNS3/Eve-NG (Link)
+    Physical Lab (optional)
+    Jeremy IT Lab (referenced above)
+    Keither Barker, Neil Anderson, David Bombal, Wendell Odom
+
+Practice Tests
+
+    CBT Nuggets Practice Tests
+    Boson EX-Sims (Link)
+    Pearson Whiteboard (Link)
+    Pearson Test Prep (Link)
+
+Exam Prep. (cool down) — 1 Month
+
+    Practical Networking (Link)
+    31 Days Before your CCNA (Link)
+    Review notes & references (Reference 1 | Reference 2)
+    Review Network Commands (CLI — ping, trace route, arp, dnslookup etc.)
+
+After Exam Read
+
+    Network Warrior by Gary A. Donahue (Link)
+
+Be hungry, but don’t burn out yourself trying to keep up with others. The pursuit of knowledge is life long.
+
+#keepgoing #journeywithjerv
