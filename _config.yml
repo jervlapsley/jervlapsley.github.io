@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Tech Brew Blog # the main title
+title: Jervik Lapsley - Blog # the main title
 
 tagline: Tech-Lifestyle # it will display as the subtitle
 
@@ -119,7 +119,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: jervlapsley/thetechbrew.co-comments
+    repo: jervlapsley/blog-comments
     repo_id: R_kgDONqSmtg
     category: Announcements
     category_id: DIC_kwDONqSmts4CmAVA
