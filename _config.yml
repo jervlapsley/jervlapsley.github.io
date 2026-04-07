@@ -225,14 +225,13 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-jekyll-compose:
+jekyll_compose:
   default_front_matter:
     drafts:
-      categories: []
-      tags: []
-      description: []
+      categories: 
+      tags: 
+      description:
     posts:
-      categories: []
-      tags: []
-      description: []
-      published: false
+      categories:
+      tags: 
+      description:
