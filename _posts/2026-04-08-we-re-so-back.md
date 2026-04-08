@@ -6,6 +6,7 @@ categories: Thoughts
 tags:
 description:
 image: assets/img/trenches.jpg
+alt: holding a cbtnugger 2025 cert class mug
 ---
 
 I've been away for a longgg time. 
