@@ -5,8 +5,9 @@ date: 2026-04-08 10:34 -0700
 categories: Thoughts
 tags:
 description:
-image: assets/img/trenches.jpg
-alt: holding a cbtnuggets 2025 cert class mug
+image:
+    path: "assets/img/trenches.jpg"
+    alt: "holding a cbtnuggets 2025 cert class mug_
 ---
 
 I've been away for a longgg time. 
