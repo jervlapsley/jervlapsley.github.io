@@ -7,7 +7,7 @@ tags:
 description:
 image:
     path: "assets/img/trenches.jpg"
-    alt: "holding a cbtnuggets 2025 cert class mug_
+    alt: "holding a cbtnuggets 2025 cert class mug"
 ---
 
 I've been away for a longgg time. 
