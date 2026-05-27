@@ -4,11 +4,14 @@ title: git basics
 date: 2026-05-26 17:56 -0700
 categories: Notes
 tags: git
-description: an intro to git basic cli commands
+description: an intro to git -- cli quick-reference guide
+image:
+    path: "/assets/img/gitsketch.png"
+    alt: "sketch of git logo"
 ---
-
-
 Git is a version control system. Used to store, track and manage code and files
+
+I made this guide while studying for reference as I implement git into my workflow. 
 
 #### Intro
 - `git init` initializes the current directory, converting to a git repo
@@ -56,3 +59,7 @@ Git is a version control system. Used to store, track and manage code and files
 - `git push`push local to remote
 #### Credentials
 `git credential-cache exit` clears current git creds and prompts for new info
+
+
+
+Feel free to leave a comment and share any commands you think I should add!
