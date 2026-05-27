@@ -4,7 +4,7 @@ title: git basics
 date: 2026-05-26 17:56 -0700
 categories: Notes
 tags: git
-description: git basics notes
+description: an intro to git basic cli commands
 ---
 
 
