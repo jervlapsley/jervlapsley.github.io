@@ -4,9 +4,9 @@ title: git basics
 date: 2026-05-26 17:56 -0700
 categories: Notes
 tags: git
-description: an intro to git -- cli quick-reference guide
+description: an intro to git, cli quick-reference guide
 image:
-    path: "assets/img/gitsketch.png"
+    path: "assets/img/gitlogo.png"
     alt: "sketch of git logo"
 ---
 Git is a version control system. Used to store, track and manage code and files
