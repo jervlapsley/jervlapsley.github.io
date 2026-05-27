@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "what happened to linkedin?"
+title: what happened to linkedin?
 categories: Thoughts
 tags: ai
 description: linkedin is now pure slop
 image:
-    path: assets/img/linkedin-slop.png
-    alt: ironically ai generated sloppy linkedinlogo
+  path: assets/img/linkedin-slop.png
+  alt: ironically ai generated sloppy linkedinlogo
+date: 2026-05-27 11:39 -0700
 ---
 Just a bit of rant here... 
 
