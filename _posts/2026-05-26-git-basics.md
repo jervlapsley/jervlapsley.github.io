@@ -6,7 +6,7 @@ categories: Notes
 tags: git
 description: an intro to git -- cli quick-reference guide
 image:
-    path: "/assets/img/gitsketch.png"
+    path: "assets/img/gitsketch.png"
     alt: "sketch of git logo"
 ---
 Git is a version control system. Used to store, track and manage code and files
