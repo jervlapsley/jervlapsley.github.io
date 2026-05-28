@@ -4,7 +4,9 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
-gem "jekyll" 
+gem "jekyll"
+
+gem "jekyll-feed"
 
 group :jekyll_plugins do
   gem "jekyll-compose"

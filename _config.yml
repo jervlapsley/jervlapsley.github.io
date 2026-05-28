@@ -16,7 +16,7 @@ timezone:
 
 title: TheJervCurve # the main title
 
-tagline: Jervik Lapsley's Blog # it will display as the subtitle
+tagline: writing: thoughts, technology, lifestyle # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   From the Mind, and Desk of Jervik Lapsley.
@@ -235,3 +235,7 @@ jekyll_compose:
       categories:
       tags: 
       description:
+
+# custom plugins
+plugins:
+  - jekyll-feed 
