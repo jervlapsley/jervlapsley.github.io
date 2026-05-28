@@ -6,10 +6,9 @@ gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
 gem "jekyll"
 
-gem "jekyll-feed"
-
 group :jekyll_plugins do
   gem "jekyll-compose"
+  gem "jekyll-feed"
 end
 
 gem "html-proofer", "~> 5.0", group: :test
