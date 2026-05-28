@@ -232,6 +232,7 @@ jekyll_compose:
       tags: 
       description:
     posts:
+      author: Jervik Lapsley
       categories:
       tags: 
       description:
