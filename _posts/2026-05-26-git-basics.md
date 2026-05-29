@@ -3,12 +3,11 @@ layout: post
 title: git basics
 date: 2026-05-26 17:56 -0700
 author: jlapsley
-categories: Notes
+categories: [Notes]
 tags: git
 description: an intro to git, cli quick-reference guide
 image:
     path: "assets/img/git-logo.png"
-    caption: "test"
     alt: "sketch of git logo"
 ---
 Git is a version control system. Used to store, track and manage code and files
