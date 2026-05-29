@@ -2,6 +2,7 @@
 layout: post
 title: git basics
 date: 2026-05-26 17:56 -0700
+author: Jervik Lapsley
 categories: Notes
 tags: git
 description: an intro to git, cli quick-reference guide
