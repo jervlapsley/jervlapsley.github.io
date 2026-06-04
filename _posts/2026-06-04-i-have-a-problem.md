@@ -8,6 +8,10 @@ tags:
 - reflection
 - rant
 description: we have a problem.. and i need to rant. 
+image: 
+    path: "/assets/img/problem.jpg"
+    alt: "Photo by <a href="https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jon Tyson</a> on <a href="https://unsplash.com/photos/feet-on-asphalt-between-two-directional-arrows-PXB7yEM5LVs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>"      
+ 
 ---
 
 I'm confused, I am lost. I think I have a procrastination/distracction  problem. How can I fix it? Honestly.. I do not know. 
