@@ -9,7 +9,7 @@ tags:
 - rant
 description: we have a problem.. and i need to rant. 
 image: 
-  path: "/assets/img/problem.jpg"
+  path: "/assets/img/problems.jpg"
   alt: "Photo by Jon Tyson on Unsplash"      
  
 ---
