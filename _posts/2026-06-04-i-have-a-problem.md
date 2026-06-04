@@ -47,7 +47,8 @@ After writing this rant, I found this research paper [^1] which covers **exactly
 
  _**maladjustment**_
 
-> Academic adjustment refers to effectively regulating study behavior, being intrinsically motivated to learn, and satisfaction toward the chosen degree program and academic performance [(van Rooij et al., 2018).](https://pmc.ncbi.nlm.nih.gov/articles/PMC9072968/#B61){: .prompt-notice}   
+> Academic adjustment refers to effectively regulating study behavior, being intrinsically motivated to learn, and satisfaction toward the chosen degree program and academic performance [(van Rooij et al., 2018).](https://pmc.ncbi.nlm.nih.gov/articles/PMC9072968/#B61)
+{: .prompt-notice}   
 
 
 Lack of personal accomplishment -- this. This is fucking it! 
