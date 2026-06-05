@@ -7,7 +7,7 @@ categories: [Thoughts, Career]
 tags:
 - reflection
 - rant
-description: we have a problem.. and i need to rant. 
+description: i have a problem.. and i need to rant. 
 image: 
   path: "/assets/img/problems.jpg"
   alt: "Photo by Jon Tyson on Unsplash"      
@@ -36,19 +36,23 @@ Burnout might have come from mostly pressure on myself, expectations and not bei
 
 I took an Associates degree in IT from 2017-2019, then Covid, after covid I migrated to the US in 2023. I had the certs, an associates and it didn't seem like enough. I also had a remote "Helpdesk" position for 2 years, more like a helldesk callcenter role which didn't provide much value to my technical skillset.. I was sick and tired of the non-sense, non-technical calls. So I left in 2025, took on a seasonal role, and now I'm on furlough waiting for the next season. 
 
-Being positive, I decided to pursue a BSc degree in Network Engineering and Security. Since then, I've applied for entry roles and kept getting bombed with rejections. Now we have AI.. I'm convinced nothing aligns for me :D  or I was sold a Dream. 
+Being positive, I decided to pursue a BSc degree in Network Engineering and Security. Since then, I've applied for entry roles and kept getting bombed with rejections. Now we have AI.. I'm convinced nothing aligns for me :D It feels like I was sold a dream. 
 
 
-Or.. maybe I lack accountable. or.. I need a mentor for guidance.  Maybe I should just do what I love, become a Gamer and try to make a living doing fun shit -- no pressure. However, that would mean starting over and that can not pay the bills. Networking Engineering was supposed to fund my robotics passion on the weekends. 
+Or.. maybe I lack accountable.
+Or.. maybe I need a mentor for guidance. 
+Or.. maybe I should just do what I love.
+Or.. become a Gamer and try to make a living doing fun shit -- no pressure.
+Or.. become a looksmaxxer. 
+
+Jokes aside.. If I do pivot that would mean starting over and that can not pay the bills. Networking Engineering was supposed to fund my  passion on the weekends. 
 
 I feel like I'm complaining, or not working hard enough but it's what feels real to me. 
 
-After writing this rant, I found this research paper [^1] which covers **exactly** what I'm experiencing. 
+After writing this rant, I found this research paper[^1] which covers _exactly_ what I'm experiencing. 
 
- _**maladjustment**_
-
-> Academic adjustment refers to effectively regulating study behavior, being intrinsically motivated to learn, and satisfaction toward the chosen degree program and academic performance [(van Rooij et al., 2018).](https://pmc.ncbi.nlm.nih.gov/articles/PMC9072968/#B61)
-{: .prompt-notice}   
+>  _**maladjustment**_ Academic adjustment refers to effectively regulating study behavior, being intrinsically motivated to learn, and satisfaction toward the chosen degree program and academic performance [(van Rooij et al., 2018).](https://pmc.ncbi.nlm.nih.gov/articles/PMC9072968/#B61)
+{: .prompt-note}   
 
 
 Lack of personal accomplishment -- this. This is fucking it! 
