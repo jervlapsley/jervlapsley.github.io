@@ -7,12 +7,14 @@ categories: [Thoughts, Career]
 tags:
 - reflection
 - rant
-description: i have a problem.. and i need to rant. 
+description: years of learning, yet little sense of accomplishment. 
 image: 
   path: "/assets/img/problems.jpg"
   alt: "Photo by Jon Tyson on Unsplash"      
  
 ---
+
+I have a problem.. and these are thoughts clouding my mind. I  need to rant.
 
 I'm confused, I am lost. I think I have a procrastination/distracction  problem. How can I fix it? Honestly.. I do not know. 
 
