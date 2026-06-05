@@ -52,7 +52,7 @@ I feel like I'm complaining, or not working hard enough but it's what feels real
 After writing this rant, I found this research paper[^1] which covers _exactly_ what I'm experiencing. 
 
 >  _**maladjustment**_ Academic adjustment refers to effectively regulating study behavior, being intrinsically motivated to learn, and satisfaction toward the chosen degree program and academic performance [(van Rooij et al., 2018).](https://pmc.ncbi.nlm.nih.gov/articles/PMC9072968/#B61)
-{: .prompt-note}   
+{: .prompt-info}   
 
 
 Lack of personal accomplishment -- this. This is fucking it! 
