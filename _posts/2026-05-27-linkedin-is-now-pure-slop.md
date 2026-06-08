@@ -2,7 +2,9 @@
 layout: post
 title: what happened to linkedin?
 categories: Thoughts
-tags: ai
+tags: 
+- ai
+- rant
 description: linkedin is now pure slop
 image:
   path: assets/img/linkedin-slop.png
